@@ -67,7 +67,6 @@ ingress:
 | Veřejná adresa | Lokální cíl (Port) | Software | Účel |
 | --- | --- | --- | --- |
 | `https://zachnet.cz` | `localhost:80` | Apache2 | Hlavní rozcestník (Hub) |
-| `https://zachnet.online` | `localhost:80` | Apache2 (VHost) | Druhý web (pro Java hru) |
 | `https://nas.zachnet.cz` | `localhost:8080` | FileBrowser | Vzdálený přístup k souborům (NAS) |
 | `https://ssh.zachnet.cz` | `localhost:22` | OpenSSH + CF Access | Vzdálený terminál (SSH) v prohlížeči |
 | `https://adguard.zachnet.cz`| `localhost:8081` | AdGuard Home | Administrace blokátoru reklam |
