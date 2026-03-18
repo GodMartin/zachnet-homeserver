@@ -1,6 +1,3 @@
-Martine, tady to máš v jednom kuse. Zkopíruj všechno od prvního do posledního řádku v bloku níže a vlož to do svého `README.md`. 
-
-```markdown
 # Zachnet Home Server Project
 **Autor:** Martin Zach | SPŠE Ječná | Projekt do předmětu PSS
 
@@ -9,7 +6,6 @@ Toto je dokumentace k mému soukromému domácímu serveru, který běží na Ra
 ---
 
 ## 1. Topologie sítě a Architektura
-<img width="652" height="526" alt="Diagram bez názvu drawio" src="https://github.com/user-attachments/assets/1aa8156a-17db-4e94-a2a9-ede418d72f60" />
 
 ![Topologie sítě](diagram.png)
 
